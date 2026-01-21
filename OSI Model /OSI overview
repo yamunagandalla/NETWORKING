@@ -1,1 +1,94 @@
+🌐 OSI Model Overview
 
+OSI – Open Systems Interconnection
+
+Think of the OSI Model as a 7-step journey that data follows when it moves from your device to another device over a network.
+
+It doesn’t do networking by itself — it’s more like a guidebook that helps us understand how communication happens.
+
+📚 OSI Model Layers (Top to Bottom)
+
+Application
+
+Presentation
+
+Session
+
+Transport
+
+Network
+
+Data Link
+
+Physical
+
+🧠 Easy Memory Trick
+
+All People Seem To Need Data Processing
+
+🏗️ OSI Layers – Grouped for Easy Understanding
+🔹 Top 3 Layers → Software Layers
+
+These layers are close to the user and applications.
+They mainly deal with software, data formatting, and communication control.
+
+1️⃣ Application Layer
+
+User interacts here
+
+Browsers, email, apps
+
+2️⃣ Presentation Layer
+
+Data format
+
+Encryption
+
+Compression
+
+3️⃣ Session Layer
+
+Starts, manages, and ends communication sessions
+
+👉 Called Software Layers because they work mostly in software and OS level.
+
+🔸 Middle Layer → Heart of the OSI Model
+4️⃣ Transport Layer ❤️
+
+Controls end-to-end communication
+
+Data segmentation and reassembly
+
+Error control and flow control
+
+Protocols: TCP, UDP
+
+👉 Called the heart of OSI because it connects the software side and hardware side and ensures reliable delivery.
+
+🔹 Bottom 3 Layers → Hardware Layers
+
+These layers are close to physical devices and network media.
+
+5️⃣ Network Layer
+
+Logical addressing (IP)
+
+Routing data across networks
+
+6️⃣ Data Link Layer
+
+MAC addresses
+
+Error detection
+
+Frame delivery
+
+7️⃣ Physical Layer
+
+Cables
+
+Signals
+
+Bits (0s and 1s)
+
+👉 Called Hardware Layers because they involve NICs, switches, routers, cables, and signals.
