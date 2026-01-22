@@ -1,4 +1,4 @@
-🌐 OSI Model Overview
+## 🌐 OSI Model Overview
 
 OSI – Open Systems Interconnection
 
@@ -6,7 +6,7 @@ Think of the OSI Model as a 7-step journey that data follows when it moves from 
 
 It doesn’t do networking by itself — it’s more like a guidebook that helps us understand how communication happens.
 
-📚 OSI Model Layers (Top to Bottom)
+#📚 OSI Model Layers (Top to Bottom)
 
 Application
 
@@ -22,7 +22,7 @@ Data Link
 
 Physical
 
-🧠 Easy Memory Trick
+#🧠 Easy Memory Trick
 
 All People Seem To Need Data Processing
 
